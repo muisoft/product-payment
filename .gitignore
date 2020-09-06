@@ -25,4 +25,4 @@ yarn-error.log*
 #api
 api/.env
 api/env
-__pycache__
+/api/__pycache__
