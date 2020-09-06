@@ -21,8 +21,8 @@ h.js
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-yarn.lock
+#yarn.lock
 #api
 api/.env
 api/env
-api/__pycache__
+__pycache__
