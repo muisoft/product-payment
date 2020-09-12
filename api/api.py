@@ -13,6 +13,6 @@ stripe_keys = {
 
 stripe.api_key = stripe_keys['secret_key']
 
-@app.route('/time')
-def get_current_time():
-    return {'message': 'Hello!'}
+@app.route('/checkout-session')
+def create_checkout_session():
+    return {'message': 'Created Scuccessfully'}

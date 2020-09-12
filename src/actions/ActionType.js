@@ -1,0 +1,5 @@
+export const ON_RESULT = "ON_RESULT";
+export const ON_ERROR = "ON_ERROR";
+
+export const GET_MESSAGE = "GET_MESSAGE";
+export const CREATE_CHECKOUT_SESSION = "CREATE_CHECKOUT_SESSION";
